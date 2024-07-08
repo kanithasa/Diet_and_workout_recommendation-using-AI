@@ -20,7 +20,7 @@
     <li><a href="#key-features">Key Features</li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#references">References</li>
-    <li><a href="#contact">Contact</a></li>
+    
   </ol>
 </details>
 
@@ -152,13 +152,7 @@ I want to say a big thanks to [<b>Eat This Much</b>](https://www.eatthismuch.com
 
 > **Warning**: <b>DO NOT</b> trust in the plan in this application. You should go to [<b>Eat This Much</b>](https://www.eatthismuch.com/) and [<b>Muscle & Strength</b>](https://www.muscleandstrength.com/)'s website to see the <b>RIGHT</b> instructions.
 
-# Contact
-You can contact me via:
-* [![GitHub][GitHub-shield]][GitHub-url]
-* [![LinkedIn][LinkedIn-shield]][LinkedIn-url]
-* ![Gmail][Gmail-shield]:&nbsp;<i>Khiet.To.05012001@gmail.com</i>
-* [![Facebook][Facebook-shield]][Facebook-url]
-* [![Twitter][Twitter-shield]][Twitter-url]
+
 
 <br/>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -182,13 +176,3 @@ You can contact me via:
 [SQLite-shield]: https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 [SQLite-url]: https://www.sqlite.org/index.html
 
-<!-- Contact -->
-[GitHub-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
-[GitHub-url]: https://github.com/theEmperorofDaiViet
-[LinkedIn-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[LinkedIn-url]: https://www.linkedin.com/in/khiet-to/
-[Gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[Facebook-shield]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
-[Facebook-url]: https://www.facebook.com/Khiet.To.Official/
-[Twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
-[Twitter-url]: https://twitter.com/KhietTo
